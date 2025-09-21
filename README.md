@@ -1,0 +1,2 @@
+# ARTICLE-SPINNING-AND-CIPHER-DECRYPTION-USING-GENETIC-ALGORITHM-AND-LANGUAGE-MODELING
+This study demonstrates two NLP applications: article spinning and cipher decryption. Article spinning uses trigrams to rephrase text for content variation. Cipher decryption uses a genetic algorithm with a bigram language model to crack encrypted messages, combining evolution-based optimization with linguistic analysis.
